@@ -1,4 +1,4 @@
-[![Header](./header.png)](https://ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=aquarelle)
+[![Header](./header.png)](https://www.ramotion.com/agency/app-development?utm_source=gthb&utm_medium=special&utm_campaign=aquarelle)
 [![preview](./Screenshots/web__transition__effect_ramotion.gif)](https://ramotion.github.io/aquarelle/)
 
 # Aquarelle
@@ -16,7 +16,7 @@ We specialize in the designing and coding of custom UI for Mobile Apps and Websi
 **Looking for developers for your project?**<br>
 This project is maintained by Ramotion, Inc. We specialize in the designing and coding of custom UI for Mobile Apps and Websites.
 
-<a href="https://dev.ramotion.com/?utm_source=gthb&utm_medium=special&utm_campaign=aquarelle-contact-us/"> 
+<a href="https://dev.ramotion.com?utm_source=gthb&utm_medium=repo&utm_campaign=aquarelle"> 
 <img src="https://github.com/ramotion/gliding-collection/raw/master/contact_our_team@2x.png" width="187" height="34"></a> <br>
 
 ## Browser support
@@ -133,7 +133,7 @@ Try our UI components in our iOS app. Contact us if interested.
 
 <a href="https://itunes.apple.com/app/apple-store/id1182360240?pt=550053&ct=aquarelle&mt=8" > 
 <img src="https://github.com/ramotion/gliding-collection/raw/master/app_store@2x.png" width="117" height="34"></a>
-<a href="https://dev.ramotion.com/?utm_source=gthb&utm_medium=special&utm_campaign=aquarelle-contact-us"> 
+<a href="https://www.ramotion.com/agency/app-development?utm_source=gthb&utm_medium=repo&utm_campaign=aquarelle"> 
 <img src="https://github.com/ramotion/gliding-collection/raw/master/contact_our_team@2x.png" width="187" height="34"></a>
 <br>
 <br>
